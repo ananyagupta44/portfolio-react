@@ -13,7 +13,7 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com/ananyagupta44",
+    github: "https://github.com/ananyagupta44/portfolio-react",
     demo: "https://netlify.com",
   },
   2: {
@@ -27,7 +27,7 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com/ananyagupta44",
+    github: "https://github.com/ananyagupta44/GIPHY-clone",
     demo: "https://netlify.com",
   },
   3: {
