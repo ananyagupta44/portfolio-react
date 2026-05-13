@@ -1,8 +1,8 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route,  useLocation } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Nav from "./nav/Nav.js";
 import About from "./about/About";
-import Avatar from "./avatar/Avatar.js";
+// import Avatar from "./avatar/Avatar.js";
 import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
 import Contact from "./contact/Contact";
@@ -10,7 +10,7 @@ import "./styles/avatar.css";
 import "./styles/app.css";
 import Background from "./background/Background.js";
 import PlayerStats from "./playerStats/PlayerStats.js";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 
 const App = () => {
   return (
@@ -32,4 +32,3 @@ const App = () => {
 };
 
 export default App;
-
